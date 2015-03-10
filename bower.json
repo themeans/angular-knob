@@ -24,6 +24,6 @@
   "dependencies": {
     "angular": "~1.x",
     "jquery": "~2.0.3",
-    "jquery-knob": "https://github.com/themeans/jQuery-Knob.git"
+    "jquery-knob": "https://github.com/themeans/jQuery-Knob.git#master"
   }
 }
